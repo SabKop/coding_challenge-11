@@ -1,5 +1,4 @@
 # coding_challenge-11
-My solution to Coding_challenge-11, which is part of the course "The Complete Web Developer in 2018: Zero to Mastery".
 
 What is the Challenge?
 Here is the story: You just started a freelancing software company: Creative/Inc (original name, I know). You just hired a designer and also got your first client. After meeting with the client, you now have an idea of what they want to build and the designer has sent you some design files in order for you to build the rest of the page. Your challenge is to build the page up using the skills you have learned in the course to get the product finished to the client by the end of the month. Good luck and have fun!
