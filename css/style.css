@@ -113,3 +113,9 @@ section {
 
 .footer .copy a {
   color: #ff52bf; }
+
+  @media only screen and (min-width: 90em){
+    section .img-top, section .img-bottom, footer .img-top{
+      display: none;
+    }
+  }
